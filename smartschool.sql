@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `photo` VARCHAR(100) NULL DEFAULT NULL AFTER `user_profile_id`;
